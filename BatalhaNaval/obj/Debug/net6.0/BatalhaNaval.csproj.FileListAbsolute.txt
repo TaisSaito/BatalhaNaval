@@ -1,0 +1,15 @@
+C:\Saito\Csharp\BatalhaNaval\BatalhaNaval\BatalhaNaval\bin\Debug\net6.0\BatalhaNaval.exe
+C:\Saito\Csharp\BatalhaNaval\BatalhaNaval\BatalhaNaval\bin\Debug\net6.0\BatalhaNaval.deps.json
+C:\Saito\Csharp\BatalhaNaval\BatalhaNaval\BatalhaNaval\bin\Debug\net6.0\BatalhaNaval.runtimeconfig.json
+C:\Saito\Csharp\BatalhaNaval\BatalhaNaval\BatalhaNaval\bin\Debug\net6.0\BatalhaNaval.dll
+C:\Saito\Csharp\BatalhaNaval\BatalhaNaval\BatalhaNaval\bin\Debug\net6.0\BatalhaNaval.pdb
+C:\Saito\Csharp\BatalhaNaval\BatalhaNaval\BatalhaNaval\obj\Debug\net6.0\BatalhaNaval.csproj.AssemblyReference.cache
+C:\Saito\Csharp\BatalhaNaval\BatalhaNaval\BatalhaNaval\obj\Debug\net6.0\BatalhaNaval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saito\Csharp\BatalhaNaval\BatalhaNaval\BatalhaNaval\obj\Debug\net6.0\BatalhaNaval.AssemblyInfoInputs.cache
+C:\Saito\Csharp\BatalhaNaval\BatalhaNaval\BatalhaNaval\obj\Debug\net6.0\BatalhaNaval.AssemblyInfo.cs
+C:\Saito\Csharp\BatalhaNaval\BatalhaNaval\BatalhaNaval\obj\Debug\net6.0\BatalhaNaval.csproj.CoreCompileInputs.cache
+C:\Saito\Csharp\BatalhaNaval\BatalhaNaval\BatalhaNaval\obj\Debug\net6.0\BatalhaNaval.dll
+C:\Saito\Csharp\BatalhaNaval\BatalhaNaval\BatalhaNaval\obj\Debug\net6.0\refint\BatalhaNaval.dll
+C:\Saito\Csharp\BatalhaNaval\BatalhaNaval\BatalhaNaval\obj\Debug\net6.0\BatalhaNaval.pdb
+C:\Saito\Csharp\BatalhaNaval\BatalhaNaval\BatalhaNaval\obj\Debug\net6.0\BatalhaNaval.genruntimeconfig.cache
+C:\Saito\Csharp\BatalhaNaval\BatalhaNaval\BatalhaNaval\obj\Debug\net6.0\ref\BatalhaNaval.dll
