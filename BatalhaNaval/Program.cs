@@ -1,4 +1,5 @@
-﻿using BatalhaNaval.Tabuleiro;
+﻿using BatalhaNaval.Lógica_de_jogo;
+using BatalhaNaval.Tabuleiro;
 using System;
 
 
@@ -16,6 +17,13 @@ namespace BatalhaNaval
                         
             MostrarTabuleiro.posicaoDosNavios(tabuleiro);
             MostrarTabuleiro.imprimirTabuleiroJogador(tabuleiro);
+
+            MostrarTabuleiro.colocarPosicao(tabuleiro);
+            /*Console.Clear();*/
+            MostrarTabuleiro.imprimirTabuleiroJogador(tabuleiro);
+
+
+
 
 
         }

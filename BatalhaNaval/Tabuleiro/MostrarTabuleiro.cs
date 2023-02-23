@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BatalhaNaval.Lógica_de_jogo;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Intrinsics.X86;
@@ -10,9 +11,9 @@ namespace BatalhaNaval.Tabuleiro
 {
     public class MostrarTabuleiro
     {
-        int linhas;
-        int colunas;
-        string[,] pecas;
+       public int linhas;
+       public int colunas;
+       public string[,] pecas;
 
 
         public MostrarTabuleiro(int linhas, int colunas)
@@ -288,7 +289,20 @@ namespace BatalhaNaval.Tabuleiro
         }
 
 
+        public static void colocarPosicao(MostrarTabuleiro tab)
+        {
+            var resultado = Jogo.jogada(tab);
 
+            int letraConvertida = resultado.Item1;
+            int numeroConvertido = resultado.Item2;
+            // Printando escolha no tabuleiro
+            if (tab.pecas[numeroConvertido, letraConvertida].Equals("~"))
+                tab.pecas[numeroConvertido, letraConvertida] = " ";
+
+            else
+                tab.pecas[numeroConvertido, letraConvertida] = "X";
+
+        }
 
 
 
